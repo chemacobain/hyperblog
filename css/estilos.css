@@ -1,14 +1,14 @@
 body{
     color: black;
     text-align: center;
-    font-family: "Arial" ;
+    font-family: "Courier" ;
 }
 #container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DD0;
+    border: 1px solid rgb(20, 20, 19);
     margin: 0 auto;
 }
 
