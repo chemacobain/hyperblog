@@ -1,5 +1,18 @@
+<<<<<<< HEAD
+Esta es la historia de Chema Cobain
+
+Chema Cobain tiene 24 años y nació en Mexico,
+viviendo en Alemania
+
+Hoy hablaremos de su historia.
+
+En camara parece alto, pero en   realidad no es tan alto.
+
+Hoy es el CEo de Platzi
+=======
 Esta es la historia de chema
 
 Chema tiene 24 años y nació en Colombia
 
 Hoy hablaremos de su vida y obra maestra.
+>>>>>>> 08626be0c6c0430c3c5739413c711e5aed8efbc5
